@@ -1,0 +1,5 @@
+To know for development
+
+My created virtual environment: 
+C:\Users\mchung\.conda\envs\SS_env
+- usually in this environment when open VS Code
