@@ -50,7 +50,7 @@ def initialize_embedding_model() -> None:
     # 'paraphrase-MiniLM-L3-v2' is a lightweight model that performs well on CPUs
     model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 
-def query_pinecone(query_text: str, top_k: int = 5) -> dict:
+def query_pinecone(query_text: str, top_k: int = 2) -> dict:
     """Query Pinecone index with the given text."""
     global pinecone_index, model
     
@@ -77,7 +77,7 @@ if __name__ == "__main__":
         print("Querying Pinecone...")
         
         # Example with text input
-        text_query = "What is the Envision metric QL1.2?"
+        text_query = "What is Berryessa  Transit Center?"
         results = query_pinecone(text_query)
         
         print("\nTop results:")
