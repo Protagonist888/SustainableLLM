@@ -1,0 +1,51 @@
+name,size,created_time,modified_time,is_text_based,is_scanned,page_count,has_images,has_tables,estimated_word_count
+Berryessa_VerificationAnalysis_CR2.2.pdf,96418,315554400.0,1724604012.0844226,True,False,4,True,True,328
+Berryessa_VerificationAnalysis_LD1.1.pdf,91719,315554400.0,1724604012.1192915,True,False,3,True,True,296
+Berryessa_VerificationAnalysis_LD2.1.pdf,92683,315554400.0,1724604012.155828,True,False,3,True,True,276
+Berryessa_VerificationAnalysis_NW1.3.pdf,85659,315554400.0,1724604012.1876915,True,False,2,True,True,319
+Berryessa_VerificationAnalysis_QL1.2.pdf,103096,315554400.0,1724604012.2186992,True,False,5,True,True,358
+Berryessa_VerificationAnalysis_RA3.4.pdf,87107,315554400.0,1724604012.2518768,True,False,2,True,True,285
+CR2.2_22_R2_AgencyandCommunityParticipation.pdf,548542,315554400.0,1724604012.2927248,True,False,46,False,True,382
+LD1.1_01_Sustainability Plan.pdf,925749,315554400.0,1724604012.3447635,True,False,40,True,True,77
+LD1.1_02_Specification 01 35 74 Sustainability Plan.pdf,7562719,315554400.0,1724604012.4932685,True,False,21,True,True,97
+LD1.1_03_VTA Sustainability Program.pdf,847157,315554400.0,1724604012.5293212,True,False,8,True,True,343
+LD1.1_04_BART Sustainability Policy.pdf,715334,315554400.0,1724604012.56767,True,False,19,True,True,29
+LD1.1_05_ENV_Green_Building_Policy.pdf,572715,315554400.0,1724604012.6033976,True,False,7,True,True,290
+LD1.1_06-VTA Sustainable Landscaping Policy.pdf,642345,315554400.0,1724604012.6413474,True,False,4,True,True,267
+LD1.1_07_Complete Streets-Policy-Adopted-Signed.pdf,1224494,315554400.0,1724604012.684553,False,True,12,True,True,0
+LD1.1_08_BFS 01 81 13_Sustainability.pdf,243580,315554400.0,1724604012.71526,True,False,19,False,True,235
+LD1.1_09_3Q 2012 Sustainability Report.pdf,96229565,315554400.0,1724604014.4824128,True,False,611,True,True,98
+LD1.1_10_Phase 1 ECR Webaccess.pdf,553446,315554400.0,1724604014.5181744,False,True,3,True,True,0
+LD1.1_11_Environmental Meeting Minutes 2017-12-11.pdf,207720,315554400.0,1724604014.5591455,True,False,2,True,True,252
+LD2.1_02_Sustainability Plan Rev0.pdf,1087245,315554400.0,1724604014.6172993,True,False,44,True,True,77
+LD2.1_03_01 35 74 Tech Spec-Sustainability.pdf,7492651,315554400.0,1724604014.7701335,True,False,21,True,True,97
+LD2.1_04_3Q 2012 Sustainability Report.pdf,96221748,315554400.0,1724604016.1799932,True,False,611,True,True,98
+LD2.1_05_Env Meeting Minutes 2017-12-11.pdf,207720,315554400.0,1724604016.2110646,True,False,2,True,True,252
+NW1.3_01_R2_Pre and Post Condition.pdf,20900014,315554400.0,1724604016.5706794,True,False,2,True,True,17
+NW1.3_01_USDA_BTC_Soil_Report.pdf,1167202,315554400.0,1724604016.615673,True,False,62,True,True,53
+QL1.2_01_Seismic-AQ Design Criteria.PDF,6036660,315554400.0,1724604016.7266154,False,True,23,True,True,0
+QL1.2_02_C742 Drawings.pdf,86297944,315554400.0,1724604018.139547,True,False,432,True,True,75
+QL1.2_03_Constr Equip Mitigation Plan.pdf,6835095,315554400.0,1724604018.275772,True,False,113,True,True,81
+QL1.2_04_Berryessa_Bike-Ped_Exhibit.pdf,955277,315554400.0,1724604018.326366,True,False,1,True,True,56
+QL1.2_05_ESA Fencing_Upper Pen.pdf,1304659,315554400.0,1724604018.362363,True,False,4,True,True,10
+QL1.2_06_UPC flood signs.pdf,9146325,315554400.0,1724604018.5307226,True,False,3,True,True,61
+QL1.2_07_Bioreten Facility Safety Signage.pdf,307244,315554400.0,1724604018.560727,True,False,1,True,True,21
+QL1.2_08_Berryessa Station Light Design.pdf,842270,315554400.0,1724604018.6225338,True,False,3,True,True,373
+QL1.2_09-BTC Plants.pdf,2217352,315554400.0,1724604018.7132916,True,False,4,True,True,914
+QL1.2_10-Project Overview- Prior to Project.pdf,370419,315554400.0,1724604018.7448409,True,False,1,True,True,13
+QL1.2_11-Carbon Sequestration Rates.pdf,105900,315554400.0,1724604018.774961,True,False,4,True,True,360
+QL1.2_12_2017 BART Green Factsheet.pdf,437713,315554400.0,1724604018.8075745,True,False,2,True,True,407
+QL1.2_13_Greenhouse Gas Emissions.pdf,134419,315554400.0,1724604018.8745036,True,False,16,False,True,402
+QL1.2_14_Chapter 4.2 Transportation.pdf,3331363,315554400.0,1724604018.970634,True,False,76,True,True,322
+QL1.2_15_Chapter 4.5_CommServ.pdf,33635,315554400.0,1724604018.999137,True,False,4,True,True,317
+QL1.2_16_R2_2010 EIS Executive Summary.pdf,513004,315554400.0,1724604019.0345597,True,False,16,False,True,399
+QL1.2_17_R2_AgencyandCommunityParticipation.pdf,548542,315554400.0,1724604019.071425,True,False,46,False,True,382
+QL1.2_19_R2_Berryessa_Transit_Center_PD_Exhibit.pdf,5210691,315554400.0,1724604019.1657844,True,False,2,True,True,53
+QL1.2_20_R2_SVBX Wayfinding.pdf,36824183,315554400.0,1724604019.7529287,True,False,38,True,True,274
+QL1.2_21_R2_Hike and Bike Wayfinding Photos.pdf,2726841,315554400.0,1724604019.820238,True,False,3,True,True,32
+QL1.2_22_R2_Org_Commit_Eqity_ VTA.pdf,234325,315554400.0,1724604019.857498,True,False,5,True,True,397
+QL1.2_23_R2_Purpose_Need.pdf,129926,315554400.0,1724604019.8872943,True,False,6,False,True,391
+QL1.2_24_R2_Env Justice Findings.pdf,536020,315554400.0,1724604019.9198458,True,False,7,False,True,327
+RA3.4_01- EnergyCap Software.pdf,186644,315554400.0,1724604019.9460576,False,True,1,True,True,0
+RA3.4_02_Irrigation O&M.pdf,2831134,315554400.0,1724604020.0464537,True,False,53,True,True,297
+README_ExampleEnvisionProjectSubmission_Berryessa.pdf,289855,315554400.0,1724604020.082237,True,False,2,True,True,366
