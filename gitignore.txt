@@ -4,3 +4,4 @@ SS_env
 archived
 _pycache_
 results
+/myenv
