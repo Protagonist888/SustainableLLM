@@ -1,4 +1,5 @@
 # Examples from Neo4J LLM and KG fundamentals courses
+# initializing an LLM using Langchain
 
 from dotenv import load_dotenv
 import os
